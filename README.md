@@ -7,3 +7,6 @@ num_of_vowels
 smallest_element
 ![Screenshot (147)](https://github.com/user-attachments/assets/917b4ff6-b98a-463b-add5-d5b26a54097a)
 
+occurrence_of_spcl_char
+![Screenshot (148)](https://github.com/user-attachments/assets/a32e2e28-0015-49d9-8456-c534607b63ba)
+
